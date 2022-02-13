@@ -1,0 +1,13 @@
+.similar-job-list-container {
+  list-style-type: none;
+  width: 100%;
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px 30px 30px 0px;
+}
+@media screen and (min-width: 768px) {
+  .similar-job-list-container {
+    width: 300px;
+  }
+}

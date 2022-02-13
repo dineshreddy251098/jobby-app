@@ -1,0 +1,18 @@
+.filter-heading {
+  font-size: 18px;
+  font-family: 'roboto';
+  color: #fff;
+}
+.filter-list-container {
+  padding-left: 0px;
+}
+.filter-list-item {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.label {
+  font-size: 16px;
+  font-family: 'roboto';
+  color: #fff;
+  margin-left: 6px;
+}
